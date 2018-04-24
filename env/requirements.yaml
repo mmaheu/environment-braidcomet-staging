@@ -9,7 +9,7 @@ dependencies:
   version: 2.3.56
 - name: alien-demo
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
+  version: 0.0.3
 - name: flty
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.7
